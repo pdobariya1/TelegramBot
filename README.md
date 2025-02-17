@@ -16,7 +16,7 @@ Amaze Bot is a Telegram chatbot powered by NVIDIA's LLaMA model, designed for in
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/pdobariya1/telegrambot.git
+git clone https://github.com/pdobariya1/TelegramBot.git
 cd telegrambot
 ```
 
